@@ -1,6 +1,5 @@
 package nested.nested.ex2;
 
-import nested.nested.ex1.NetworkMessage;
 
 public class Network {
     public void sendMessage(String text) {
