@@ -4,7 +4,7 @@ package nested.inner.ex1;
 public class Engine {
     private Car car;
 
-    public Engine(Car car) {
+    public Engine(Car car) { // Car를 받아서 Engine 인스턴스에 저장.
         this.car = car;
     }
 
